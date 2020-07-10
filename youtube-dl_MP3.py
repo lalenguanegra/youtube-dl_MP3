@@ -25,7 +25,7 @@ def Entry():
         a = entry1.get()
         with open(('URL.txt'), 'w') as f: 
             f.write(a)
-        call(['./python/python.exe', './youtube-dl/youtube_dl/__main__.py','-x', '--audio-format', 'mp3', '-a', './URL.txt'], shell=False)
+        call(['./python/python.exe', './youtube-dl/youtube_dl/__main__.py', '--ffmpeg-location', './ffmpeg/bin/ffmpeg.exe', '-x', '--audio-format', 'mp3', '-a', './URL.txt'], shell=False)
 canvas1.create_window(75, 25, width=337, window=entry1)
 
 
