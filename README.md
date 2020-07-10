@@ -9,7 +9,7 @@ https://www.python.org/ftp/python/3.7.8/python-3.7.8-embed-win32.zip
 
 ![cap](https://github.com/lalenguanegra/youtube-dl_MP3/blob/master/cap.png)
 
-![directory](https://github.com/lalenguanegra/youtube-dl_MP3/blob/master/info.png)
+![directory](https://github.com/lalenguanegra/youtube-dl_MP3/blob/master/info.png?raw=true)
 
 [DEMO](https://youtu.be/FK3bJectGik)
 
