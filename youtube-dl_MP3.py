@@ -9,7 +9,7 @@ root = Tk()
 frame = Frame(root)
 frame.pack()
 def OpenGithub():
-    url = 'https://github.com/lalenguanegra/RokuRemote'
+    url = 'https://github.com/lalenguanegra/youtube-dl_MP3'
     webbrowser.open_new(url)
 window.title("Sadie Socio's")
 lbl = Button(window, text="youtube-dl", command=OpenGithub, width=30, height=10, font=("Arial Bold", 30))
