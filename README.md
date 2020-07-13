@@ -11,6 +11,8 @@ https://www.python.org/ftp/python/3.7.8/python-3.7.8-embed-win32.zip
 
 ![directory](https://github.com/lalenguanegra/youtube-dl_MP3/blob/master/required.png)
 
+![Kali](https://i.ibb.co/PhFdp6b/Screenshot-2020-07-13-11-11-07.png)
+
 [DEMO](https://youtu.be/FK3bJectGik)
 
 
