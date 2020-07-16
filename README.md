@@ -15,7 +15,7 @@ https://www.python.org/ftp/python/3.7.8/python-3.7.8-embed-win32.zip
 
 [Windows](https://youtu.be/FK3bJectGik)
 
-[Kali Linux](https://www.youtube.com/watch?v=yme1hkTPbnk)
+[Kali Linux](https://www.youtube.com/watch?v=rtiJiy2FqfU)
 
 [MAC OS](https://www.youtube.com/watch?v=yme1hkTPbnk)
 
