@@ -21,7 +21,7 @@ canvas1 = Canvas(root, width = 150, height = 35)
 canvas1.pack()
 entry1 = Entry (root, justify='center') 
 def EntryTwo():
-        messagebox.showwarning("Please Wait...","Downloading...")
+        messagebox.showwarning("Please Wait...","Downloading...", parent=root)
         a = entry1.get()
         with open(('URL.txt'), 'w') as f: 
             f.write(a)
@@ -30,7 +30,7 @@ canvas1.create_window(75, 25, width=337, window=entry1)
 
 
 def Entry():
-        messagebox.showwarning("Please Wait...","Downloading...")
+        messagebox.showwarning("Please Wait...","Downloading...", parent=root)
         a = entry1.get()
         with open(('URL.txt'), 'w') as f: 
             f.write(a)
@@ -54,5 +54,3 @@ lbl.config(bg="#b3003b")
 root.resizable(width=False, height=False)
 window.resizable(width=False, height=False)
 window.mainloop()
-
-
