@@ -21,11 +21,11 @@ https://johnvansickle.com/ffmpeg/
 
 ![mp4&mp3](https://github.com/lalenguanegra/youtube-dl_MP3/blob/master/combo.png)
 
-[Windows](https://youtu.be/FK3bJectGik)
+[Windows](https://www.bitchute.com/video/xFhgM4jqtVOG/)
 
-[Kali Linux](https://www.youtube.com/watch?v=rtiJiy2FqfU)
+[Kali Linux](https://www.bitchute.com/video/DmdIWUrOSVXq/)
 
-[MAC OS](https://www.youtube.com/watch?v=yme1hkTPbnk)
+[MAC OS](https://www.bitchute.com/video/wdLpYviFJ0n5/)
 
 
 
